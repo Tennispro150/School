@@ -27,7 +27,7 @@
   - Math
 
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Time        | Monday   |
+| ----------- | -------- |
+| 9:00 - !0:00| Library  |
+| Paragraph   | Music    |
