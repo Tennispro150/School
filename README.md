@@ -25,3 +25,9 @@
   - Homeroom
   - Lunch
   - Math
+
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
