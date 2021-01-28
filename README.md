@@ -1,5 +1,5 @@
 # School
-##Schedule
+## Schedule
 - Monday
   - Library
   - Homeroom
