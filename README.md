@@ -27,7 +27,7 @@
   - Math
 
 
-| Time        | Monday   |
-| ----------- | -------- |
-| 9:00 - !0:00| Library  |
-| Paragraph   | Music    |
+| Time        | Monday   | Tuesday  |
+| ----------- | -------- | -------- |  
+| 9:00 - !0:00| Library  | Music    |
+| Paragraph   | HomeRoom | HomeRoom |
